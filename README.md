@@ -10,7 +10,7 @@ I am a software engineer with a fascination for all technology. I love working w
 - 🌱 I’m developing using Java, Node, Typescript, Spring
 - 💬 Things you can ask me about include: new tech, travel, or anything else 😳
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ranushan/), or on [Stackoverflow](https://stackoverflow.com/users/23149105/ranushan-rachu)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: AI won’t replace software developers
 
 <details>
   <summary>Some Stats</summary>
