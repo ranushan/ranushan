@@ -1,9 +1,10 @@
+<!-- Put Memoji -->
 
-### About
+### 🤷‍♂️ About
 
 I am a software engineer with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
 
-### Overview
+### 🧐 Overview
 - 💼 I am a Software Development Engineer at Enedis
 - 🎓 I graduated from Computer Science at NextAdvance
 - 🔭 Aside from software development, some of my additional hobbies/interests are listening music, learning new skills. 
