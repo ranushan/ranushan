@@ -2,12 +2,12 @@
 
 ### 🤷‍♂️ About
 
-I am a software engineer with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
+I am a software engineer with a fascination for all technology. I love working with people, and I have a keen interest for software and web development.
 
 ### 🧐 Overview
 - 💼 I am a Software Development Engineer at Enedis
 - 🎓 I graduated from Computer Science at NextAdvance
-- 🔭 Aside from software development, some of my additional hobbies/interests are listening music, learning new skills. 
+- 🔭 Aside from software development, some of my additional hobbies/interests are listening to music and learning new skills
 - 🌱 I’m developing using Java, Node, Typescript, Spring
 - 💬 Things you can ask me about include: new tech, travel, or anything else 😳
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/ranushan/), or on [Stackoverflow](https://stackoverflow.com/users/23149105/ranushan-rachu)
